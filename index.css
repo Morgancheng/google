@@ -1,0 +1,68 @@
+html, body, header, footer{
+  margin: 0;
+  padding: 0;
+}
+
+.s1 {
+  text-align: center;
+  margin-top: 220px;
+}
+.s2 {
+  margin-top: 25px;
+  margin: auto;
+  width: 100%;
+}
+nav {
+
+  margin-left: 1000px;
+  position: absolute;
+}
+
+input {
+  height: 33px;
+  width: 37%;
+  margin-left: 30%;
+
+}
+footer{
+
+position: absolute;
+  bottom: 0;
+  width: 99%;
+}
+
+footer div {
+  display: inline-block;
+
+}
+
+.lien-droite {
+  float: right;
+
+}
+
+.s4 {
+  color: #696969;
+  text-decoration: none;
+  font-style: normal;
+  top: 150px;
+}
+a:hover {
+  text-decoration: underline;
+  color: black;
+}
+button {
+  background-color: #F7F7F7;
+  color: black;
+  height: 39px;
+  width: 110px;
+
+}
+
+.s3{
+  margin: 0 auto;
+  width: 250px;
+}
+#droite{
+  margin-left: 20px;
+}
